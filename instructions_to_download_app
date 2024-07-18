@@ -1,0 +1,16 @@
+To control your voice-controlled robot, follow these steps to connect your smartphone via Bluetooth using the ARM_Voice app:
+
+Instructions
+Download the App
+Go to Google play store and search for the app called ARM_Voice.
+Download and install the app on your smartphone.
+Power On Your Robot
+Turn on your robot using an external power supply.
+Enable Bluetooth on Your Phone
+Ensure Bluetooth is turned on in your smartphone's settings.
+Connect to the Bluetooth Module
+Open the ARM_Voice app on your smartphone.
+Select the 'HC-05 Bluetooth Module' option from the app.
+
+
+Observe the red light on the Bluetooth module. It will change from fast blinking to a slow blinking gesture, indicating a successful connection between your smartphone and the robot.
